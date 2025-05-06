@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#box{
+   margin-top: 20px;
+    height: 500px;
+    width: 300px;
+    background-image:linear-gradient(to right,#0d0d0d,#404040);
+    border: 20px solid white;
+    margin-left: 5px;
+    padding: 20px;
+}
+#im{
+    margin-left: 70px;
+}
+#order{
+ margin-left:15px;
+    font-size: 20px;
+    color: white;
+}
+#one{
+    margin-left: 50px;
+    color: #ba8c68;
+    font-size: 150px;
+}
+#you{
+    font-size: 35px;
+    color:white
+}
+#other{
+    margin-top: 5px;
+    margin-left: 40px;
+    font-size: 25px;
+    color:white
+}
+#nine{
+    /* margin-top: px; */
+    color:#ba8c68;
+    font-size:30px;
+     margin-left: 10px;
+    /* margin-top: -5px; ; */
+}
+#main{
+    display: flex;
+}
+#wont{
+    margin-top: 5px;
+    margin-left: 50px;
+    font-size: 40px;
+    color:#ba8c68;
+}
+
+#borderBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#total{
+    margin: 0px;
+    padding: 0px;
+    width: 1400px;
+    height: 700px;
+    background-color: black;
+
+}
